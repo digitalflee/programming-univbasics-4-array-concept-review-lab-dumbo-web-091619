@@ -11,10 +11,9 @@ end
 
 
 def find_max_value(array)
- array = []
  
  array.length.times do |array|
-  return array 
+  puts array
   end
   return array.max  
 end 
