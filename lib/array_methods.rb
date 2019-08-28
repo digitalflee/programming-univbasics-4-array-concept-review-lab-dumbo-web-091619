@@ -3,9 +3,9 @@ def find_element_index(array, value_to_find)
  array = []
  
 array.length.times do |array|
-  puts array 
-  return array[value_to_find]
+  puts array  
   end
+  return array[value_to_find]
 end 
 
 
