@@ -2,10 +2,10 @@
 def find_element_index(array, value_to_find)
  array = []
  
-array.length.times do |array|
-  puts array << value_to_find
+array.length.times do |array[value_to_find]|
+  puts array 
   end
-  return array[value_to_find] 
+  return array[value_to_find]
 end 
 
 
