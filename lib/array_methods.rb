@@ -2,7 +2,7 @@
 def find_element_index(array, value_to_find)
  
 array.times do |array|
-  return array 
+  puts array 
   end
   return value_to_find
 end 
